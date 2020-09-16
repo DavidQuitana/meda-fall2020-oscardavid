@@ -1,0 +1,18 @@
+#h1 {
+    background-color: green;
+    text-align: center;
+    margin-top: 50px;
+    font-size: x-large;
+
+}
+
+#pargf1 {
+    width: 850px;
+    height: 150px;
+    background-color: lightcyan;
+    border-style: double;
+    font-family: cursive;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
