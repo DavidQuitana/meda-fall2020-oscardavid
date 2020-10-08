@@ -1,0 +1,16 @@
+My criteria to search on the Google was "minimalist and simple portfolio using html and css examples".
+I found many websides that serve as an imspiration for what I wanted my portafolio to look like.
+This are some examples:
+
+http://www.fabriziodelgaudio.it/
+I like this webside becouse of its simplicity and easy to undertand the header is his name and his proficion in the about me section and at the footer he has all of his contact imformation.
+
+ http://www.manuel-rueda.com/
+The Webside its for me tecnicly impresive and shows what a loot of experience can do to make a portfolio incredibly detail while mainteinig its simplicity.
+Im not sure about the composition of this Webside but I will say that the header is His name and the first thing that apears whent the web loads and the main will be all the videos and the footer his social pages and contact information.
+
+ http://idealhut.com/
+
+This webside will be something that I consider closer to what I could do with some prectice in few months or even weeks and its a great motivation to continue learning code!
+The header has useful liks to other pages to get more information about the person and the maing includes some examples of hes most recent work and the footer has the contact information.
+
