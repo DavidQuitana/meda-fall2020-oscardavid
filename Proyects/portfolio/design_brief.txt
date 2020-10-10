@@ -14,3 +14,12 @@ Im not sure about the composition of this Webside but I will say that the header
 This webside will be something that I consider closer to what I could do with some prectice in few months or even weeks and its a great motivation to continue learning code!
 The header has useful liks to other pages to get more information about the person and the maing includes some examples of hes most recent work and the footer has the contact information.
 
+
+
+Base of all the good the good examples I have seen I would have black as a background color to make it easy to read similar to the night mode on a phone to help with eye care and combine that with blue and grean for the titles and menus of the page to have a good contras with my about me parragraphs in white so its easy to read.
+
+About me 
+
+I have worked for two year in sales, helping customers have an optimal experience went shopping in the stores, bilingual speak Spanish as a first language and 5 years of experience in english, experience with tourist tours and translation for customers when needed, hard work and good communication skills.
+
+I have play the piano since I was 8 years old read music sheet and play the glockenspiel for a year in the school band, basic knowledge of computer hardware and Pc assembly skills for workstation or Pc’s for video games and currently learning coding HTML,CSS and javascript, I'm good at adapting to new and challenging situations to success in the workplace and life.
